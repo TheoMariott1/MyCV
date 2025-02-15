@@ -1,7 +1,6 @@
 # Théo Mariotti  
 **Cybersecurity Specialist | Purple Team | SI Tech Lead**  
-São Paulo, SP, 015-29000  
-📞 +55 21 98323-7710  
+São Paulo, SP, 015-29000   
 📧 [tmariotti.sec@outlook.com](mailto:tmariotti.sec@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/theomariotti)  
 🔗 [Hack The Box](https://ctf.hackthebox.com/user/profile/609892)  
