@@ -55,7 +55,6 @@ Aspiring for a leadership role in projects blending attack and defense, focusing
 - Development of an Information Security Master Plan, structuring security policies for an education industry startup.  
 - Monitoring and auditing of disaster recovery processes for financial institutions.  
 
-### **Consultor de TI**  
 📍 Rio de Janeiro, RJ  
 ⏳ **Jul 2018 - Jul 2019**  
 **IT Consultant**  
