@@ -2,7 +2,7 @@
 **Cybersecurity Specialist | Purple Team | SI Tech Lead**  
 São Paulo, SP, 015-29000  
 📞 +55 21 98323-7710  
-📧 [theomariotti@outlook.com](mailto:theomariotti@outlook.com)  
+📧 [tmariotti.sec@outlook.com](mailto:tmariotti.sec@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/theomariotti)  
 🔗 [Hack The Box](https://ctf.hackthebox.com/user/profile/609892)  
 🔗 [GitHub](https://github.com/TheoMariott1)  
@@ -55,13 +55,11 @@ Aspiring for a leadership role in projects blending attack and defense, focusing
 - Development of an Information Security Master Plan, structuring security policies for an education industry startup.  
 - Monitoring and auditing of disaster recovery processes for financial institutions.  
 
-**Consultor de TI**  
+### **Consultor de TI**  
 📍 Rio de Janeiro, RJ  
 ⏳ **Jul 2018 - Jul 2019**  
 **IT Consultant**  
-- IT General Controls (ITGC) audits for global companies, reporting to BACEN and CVM.
-
-# SKILLS
+- IT General Controls (ITGC) audits for global companies, reporting to BACEN and CVM.  
 
 ## 🛠️ Hard Skills  
 - **Defense:** Forensic Analysis, Root Cause Analysis, Threat Intelligence, Incident Response, Security Frameworks, Code Analysis & Review, SysInternals, MSRT, Antivirus, Graylog, Programming (Python, JS, SQL, C++, Bash/Shell), ETL, Automation.  
