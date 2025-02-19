@@ -59,8 +59,8 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 📍 Rio de Janeiro, RJ  
 ⏳ **Jul 2018 - Jul 2019**  
 **IT Consultant - BTG Pactual, Stone Payments**  
-- IT General Controls (ITGC) audit for global companies, reporting to BACEN and CVM.
-- Compliance projects based on market frameworks and regulations (NIST, ISO, LGPD, GDPR, BACEN, CVM, and Digital Certificates).
+- **IT General Controls (ITGC)** audit for global companies, reporting to BACEN and CVM.
+- **Compliance Projects Based on Industry Frameworks** and regulations (NIST, ISO, LGPD, GDPR, BACEN, CVM, and Digital Certificates).
 
 ## 🛠️ Hard Skills  
 - **Defense:** Forensic Analysis, Root Cause Analysis, Threat Intelligence, Incident Response, Security Frameworks, Code Analysis & Review, SysInternals, MSRT, Antivirus, Graylog, Programming (Python, JS, SQL, C++, Bash/Shell), ETL, Automation.  
