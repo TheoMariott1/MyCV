@@ -14,45 +14,47 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 📍 São Paulo, SP  
 ⏳ **Since Aug 2023**  
 **Senior Information Security Analyst - DLP Focused - Henry Schein, Portobello, Embraed Enterprises, and more**  
-- Technical leadership as Tech Lead, guiding the 24/7 monitoring team and overseeing security solutions.
-- Data Processing and Analysis using Graylog and OpenSearch for security log monitoring and investigation. Development of dashboards and queries for threat and anomaly detection.
-- Security incident investigation by analyzing endpoint logs via DLP solution (Safetica).
-- Task automation and development of intelligent dashboards for strategic visibility using a combination of Python scripts, Azure Blob, and Power BI.
-- Management and enhancement of security policies for servers and DLP applications for healthcare and real estate companies.
-- Collaboration with the Executive Board for strategic planning, security metrics review, and refinement of national-level data transfer policies. 
+- **Team Guidance and Leadership as Tech Lead**, guiding the 24/7 monitoring team and overseeing security solutions while mentoring those under my supervisione to handle subsequent events.
+- **Data Processing and Analysis** using Graylog and OpenSearch for security log monitoring and investigation. Development of dashboards and queries for threat and anomaly detection.
+- **Security Incident Investigation** by analyzing endpoint logs via DLP solution (Safetica).
+- **Task Automation and Development of Intelligent Dashboards **for strategic visibility using a combination of Python scripts, Azure Blob, and Power BI.
+- **Management and Enhancement of Security Policies** for servers and DLP applications for healthcare and real estate companies.
+- **Collaboration with the Executive Board** for strategic planning, security metrics review, and refinement of national-level data transfer policies. 
 
 ### **Act Digital**  
 📍 São Paulo, SP  
 ⏳ **Oct 2022 - Feb 2023**  
 **SOC Analyst - Bradesco Bank**  
-- Optimization of Security Workflows: Improved efficiency and integration of security processes with business operations.  
-- Strategic Planning: Developed security programs aligned with corporate objectives.  
-- Threat Monitoring: Proactive threat detection and security log analysis, with effective incident escalation.
+- **Optimization of Security Workflows** to improve efficiency and integration of security processes along with business operations.  
+- **Strategic Planning **by developing security programs aligned with corporate objectives.  
+- **Threat Monitoring** for proactive threat detection and security log analysis, with effective incident escalation.
   
 ### **Atos**  
 📍 São Paulo, SP  
 ⏳ **Jul 2022 - Sep 2022**  
 **Security Consultant N3 - Volkswagen Bus & Truck**  
-- Vulnerability analysis using Nessus and incident response.  
-- Implementation of cryptographic standards and security frameworks (NIST, FIPS PUB 140-2, ISO 27001/02).  
-- Development and evaluation of security policies based on vulnerability assessments.  
+- **Vulnerability Analysis** using Nessus and assessment escalation to the dev team.  
+- **Implementation of Cryptographic Standards and Security Frameworks** (NIST, FIPS PUB 140-2, ISO 27001/02).  
+- **Development and Evaluation of Security Policies** based on vulnerability assessments.  
 
 ### **HeadMind Partners**  
 📍 São Paulo, SP  
 ⏳ **Oct 2020 - Jun 2022**  
 **Privacy and Security Consultant - BNP Paribas**  
-- Third-Party Risk Management (TPRM) and compliance with privacy regulations (LGPD, GDPR).  
-- Creation of Data Protection Impact Assessments (DPIA) and Risk Analyses.  
-- Automation of data management processes using OneTrust.  
-- Conducted security awareness training workshops.  
+- **Third-Party Risk Management (TPRM) **and compliance with privacy regulations (LGPD, GDPR).  
+- **Creation of Data Protection Impact Assessments (DPIA)** and Risk Analyses.  
+- **Automation of Data Management Processes** using OneTrust.  
+- **Conducted Security Awareness Training** workshops for different operational levels and mindsets.  
 
 ### **Ernst & Young**  
 📍 São Paulo, SP  
 ⏳ **Aug 2019 - Feb 2020**  
 **Cybersecurity Analyst - Kroton Educational, Santander Bank**  
-- Participation in cybersecurity projects focusing on security policies and regulatory compliance.  
-- Development of an Information Security Master Plan, structuring security policies for an education industry startup.  
-- Monitoring and auditing of incident response and disaster recovery processes for financial institutions.  
+- **Initial Level in Cybersecurity**, participating in projects with various companies, each with its own environment and level of maturity. 
+- **Providing Support and Guidance** to meet regulatory obligations and deadlines, with a strong need for compliance with GDPR and LGPD.
+- **Strategic Planning for Information Security**, developing the full set of policies (such as cloud management, cryptographic keys, third-party management, among others).
+- **Collaborative Work with Multidisciplinary Teams**, resulting in the optimization of general IT processes and business areas.
+- **Defining Action Plans** and implementing processes for continuous learning.
 
 📍 Rio de Janeiro, RJ  
 ⏳ **Jul 2018 - Jul 2019**  
@@ -75,9 +77,10 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 ## 📝 Certifications  
 - **CompTIA Security+**  
 - **Data Loss Prevention Endpoint Administration** — Trellix  
-- **Introduction to Pentesting in Practice** — Desec Security  
 - **Cyber Explorer VaultOne** — Cyber Defense Institute  
 - **OCTP - OneTrust Certification Program**  
+- **Lean Six Sigma White Belt - TI Exames**
+- **Introduction to Pentesting in Practice** — Desec Security  
 
 ## 🎓 Education  
 🎓 **Universidade Estácio de Sá**  
