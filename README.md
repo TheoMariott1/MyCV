@@ -13,7 +13,7 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 ### **IpTrust Tecnologia**  
 📍 São Paulo, SP  
 ⏳ **Since Aug 2023**  
-**Senior Information Security Analyst**  
+**Senior Information Security Analyst - DLP Focused - Henry Schein, Portobello, Embraed Enterprises, and more**  
 - Technical leadership as Tech Lead, guiding the 24/7 monitoring team and overseeing security solutions.
 - Data Processing and Analysis using Graylog and OpenSearch for security log monitoring and investigation. Development of dashboards and queries for threat and anomaly detection.
 - Security incident investigation by analyzing endpoint logs via DLP solution (Safetica).
@@ -32,7 +32,7 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 ### **Act Digital**  
 📍 São Paulo, SP  
 ⏳ **Oct 2022 - Feb 2023**  
-**SOC Analyst - Bradesco**  
+**SOC Analyst - Bradesco Bank**  
 - Optimization of Security Workflows: Improved efficiency and integration of security processes with business operations.  
 - Strategic Planning: Developed security programs aligned with corporate objectives.  
 - Threat Monitoring: Proactive threat detection and security log analysis, with effective incident escalation.  
@@ -49,14 +49,14 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 ### **Ernst & Young**  
 📍 São Paulo, SP  
 ⏳ **Aug 2019 - Feb 2020**  
-**Cybersecurity Analyst - Kroton Educacional, Santander**  
+**Cybersecurity Analyst - Kroton Educational, Santander Bank**  
 - Participation in cybersecurity projects focusing on security policies and regulatory compliance.  
 - Development of an Information Security Master Plan, structuring security policies for an education industry startup.  
 - Monitoring and auditing of incident response and disaster recovery processes for financial institutions.  
 
 📍 Rio de Janeiro, RJ  
 ⏳ **Jul 2018 - Jul 2019**  
-**IT Consultant - BTG Pactual, Stone Pagamentos**  
+**IT Consultant - BTG Pactual, Stone Payments**  
 - IT General Controls (ITGC) audit for global companies, reporting to BACEN and CVM.
 - Compliance projects based on market frameworks and regulations (NIST, ISO, LGPD, GDPR, BACEN, CVM, and Digital Certificates).
 
