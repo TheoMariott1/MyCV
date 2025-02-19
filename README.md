@@ -80,7 +80,9 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 - **Cyber Explorer VaultOne** — Cyber Defense Institute  
 - **OCTP - OneTrust Certification Program**  
 - **Lean Six Sigma White Belt - TI Exames**
-- **Introduction to Pentesting in Practice** — Desec Security  
+- **Introduction to Pentesting in Practice** — Desec Security
+  
+_More certificates available on LinkedIn._
 
 ## 🎓 Education  
 🎓 **Universidade Estácio de Sá**  
