@@ -21,6 +21,14 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 - Management and enhancement of security policies for servers and DLP applications for healthcare and real estate companies.
 - Collaboration with the Executive Board for strategic planning, security metrics review, and refinement of national-level data transfer policies. 
 
+### **Act Digital**  
+📍 São Paulo, SP  
+⏳ **Oct 2022 - Feb 2023**  
+**SOC Analyst - Bradesco Bank**  
+- Optimization of Security Workflows: Improved efficiency and integration of security processes with business operations.  
+- Strategic Planning: Developed security programs aligned with corporate objectives.  
+- Threat Monitoring: Proactive threat detection and security log analysis, with effective incident escalation.
+  
 ### **Atos**  
 📍 São Paulo, SP  
 ⏳ **Jul 2022 - Sep 2022**  
@@ -28,14 +36,6 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 - Vulnerability analysis using Nessus and incident response.  
 - Implementation of cryptographic standards and security frameworks (NIST, FIPS PUB 140-2, ISO 27001/02).  
 - Development and evaluation of security policies based on vulnerability assessments.  
-
-### **Act Digital**  
-📍 São Paulo, SP  
-⏳ **Oct 2022 - Feb 2023**  
-**SOC Analyst - Bradesco Bank**  
-- Optimization of Security Workflows: Improved efficiency and integration of security processes with business operations.  
-- Strategic Planning: Developed security programs aligned with corporate objectives.  
-- Threat Monitoring: Proactive threat detection and security log analysis, with effective incident escalation.  
 
 ### **HeadMind Partners**  
 📍 São Paulo, SP  
