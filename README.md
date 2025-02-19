@@ -17,7 +17,7 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 - **Team Guidance and Leadership as Tech Lead**, guiding the 24/7 monitoring team and overseeing security solutions while mentoring those under my supervisione to handle subsequent events.
 - **Data Processing and Analysis** using Graylog and OpenSearch for security log monitoring and investigation. Development of dashboards and queries for threat and anomaly detection.
 - **Security Incident Investigation** by analyzing endpoint logs via DLP solution (Safetica).
-- **Task Automation and Development of Intelligent Dashboards **for strategic visibility using a combination of Python scripts, Azure Blob, and Power BI.
+- **Task Automation and Development of Intelligent Dashboards** for strategic visibility using a combination of Python scripts, Azure Blob, and Power BI.
 - **Management and Enhancement of Security Policies** for servers and DLP applications for healthcare and real estate companies.
 - **Collaboration with the Executive Board** for strategic planning, security metrics review, and refinement of national-level data transfer policies. 
 
