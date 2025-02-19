@@ -26,7 +26,7 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 ⏳ **Oct 2022 - Feb 2023**  
 **SOC Analyst - Bradesco Bank**  
 - **Optimization of Security Workflows** to improve efficiency and integration of security processes along with business operations.  
-- **Strategic Planning **by developing security programs aligned with corporate objectives.  
+- **Strategic Planning** by developing security programs aligned with corporate objectives.  
 - **Threat Monitoring** for proactive threat detection and security log analysis, with effective incident escalation.
   
 ### **Atos**  
