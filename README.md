@@ -41,7 +41,7 @@ Aspiring to a leadership position in defensive security projects, focusing on fo
 📍 São Paulo, SP  
 ⏳ **Oct 2020 - Jun 2022**  
 **Privacy and Security Consultant - BNP Paribas**  
-- **Third-Party Risk Management (TPRM) **and compliance with privacy regulations (LGPD, GDPR).  
+- **Third-Party Risk Management (TPRM)** and compliance with privacy regulations (LGPD, GDPR).  
 - **Creation of Data Protection Impact Assessments (DPIA)** and Risk Analyses.  
 - **Automation of Data Management Processes** using OneTrust.  
 - **Conducted Security Awareness Training** workshops for different operational levels and mindsets.  
